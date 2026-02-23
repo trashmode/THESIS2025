@@ -1,0 +1,6 @@
+[submodule "NEMPRO"]
+	path = NEMPRO
+	url = https://github.com/UNSW-CEEM/NEMPRO.git
+[submodule "nempy"]
+	path = nempy
+	url = git@github.com:UNSW-CEEM/nempy.git
